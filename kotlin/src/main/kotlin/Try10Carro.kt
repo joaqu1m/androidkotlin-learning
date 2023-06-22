@@ -1,0 +1,1 @@
+data class Try10Carro(val nome: String, val ano: Int)
