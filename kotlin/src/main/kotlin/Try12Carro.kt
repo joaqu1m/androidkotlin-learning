@@ -1,0 +1,1 @@
+data class Try12Carro(val nome: String)
